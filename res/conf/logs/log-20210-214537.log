@@ -1,0 +1,16 @@
+WARN  | Tue Jul 28 21:45:37 IST 2020 : Failed to unzip the resources: D:\Programs\LidoSoftwares\LidoCopy\res.zip (The system cannot find the file specified)
+Session Id: 20210-214537
+DEBUG | Tue Jul 28 21:45:37 IST 2020 : Services initiated
+DEBUG | Tue Jul 28 21:45:39 IST 2020 : Add file for copy: D:\Programs\LidoSoftwares\LidoCopy\files\nIlNgkJYIg1595952937698
+DEBUG | Tue Jul 28 21:45:39 IST 2020 : passing to backpanel >> C:\Users\user\Desktop\src\set-2\set-2\1.bmp
+DEBUG | Tue Jul 28 21:45:39 IST 2020 : Got file for copy: C:\Users\user\Desktop\src\set-2\set-2\1.bmp
+DEBUG | Tue Jul 28 21:45:39 IST 2020 : Added file for copy to srcFiles: 1
+DEBUG | Tue Jul 28 21:45:39 IST 2020 : Setting UI for files in bucket...
+DEBUG | Tue Jul 28 21:45:39 IST 2020 : Add file for copy: D:\Programs\LidoSoftwares\LidoCopy\files\xQclFWSvCF1595952937699
+DEBUG | Tue Jul 28 21:45:39 IST 2020 : passing to backpanel >> C:\Users\user\Desktop\src\set-2\1.bmp
+DEBUG | Tue Jul 28 21:45:39 IST 2020 : Got file for copy: C:\Users\user\Desktop\src\set-2\1.bmp
+DEBUG | Tue Jul 28 21:45:39 IST 2020 : Added file for copy to srcFiles: 2
+DEBUG | Tue Jul 28 21:45:39 IST 2020 : Setting UI for files in bucket...
+DEBUG | Tue Jul 28 21:45:39 IST 2020 : Setting UI for files in bucket...
+INFO  | Tue Jul 28 21:48:37 IST 2020 : Files with same names (but not same hash) found. Will show overwrite strategy dialog.
+INFO  | Tue Jul 28 21:48:37 IST 2020 : Files with same names and relative paths copied together from different sources. Will show overwrite strategy dialog.
